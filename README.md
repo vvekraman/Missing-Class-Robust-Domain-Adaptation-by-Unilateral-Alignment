@@ -12,5 +12,5 @@ Obtained accuracy on test_set(MNISTM) (trained for 50 epochs):
 | Missing_classes   |   Accuracy(%)(paper) |   Accuracy(%)(re-implementation) |
 |-------------------|----------------------|----------------------------------|
 | 0/10              |                76.74 |                             1    |
-| 2/10              |                75.03 |                            54.55 |
-| 8/10              |                74.06 |                            57.72 |
+| 2/10              |                75.03 |                            57.72 |
+| 8/10              |                74.06 |                            54.55 |
